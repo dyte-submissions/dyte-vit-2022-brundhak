@@ -16,7 +16,6 @@
 
 <!-- CONTACT -->
 ## Contact
-
 Brundha - brundhakumaran@gmail.com
 Project Link: https://github.com/dyte-submissions/dyte-vit-2022-brundhak
-<p align="right">(<a href="#top">back to top</a>)</p>
+
