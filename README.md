@@ -4,49 +4,21 @@
 
 
 
-<!-- PROJECT LOGO -->
+<!--Topic-->
 <br />
 <div align="center">
-  <a href="https://github.com/dyte-submissions/dyte-vit-2022-brundhak/tree/master">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 <h3 align="center">SDK Tooling Challenge</h3>
-
-  <p align="center">
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
 </div>
-
-
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <ol>
 <li>Clone the the github repo.<br /></li>
-<li>type npm install inside your terminal<br /></li>
-<li>initial the cli tool globally by typing "npm install -g" in the terminal<br /></li>
-<li>make sure you have the csv file conatining all the project repos within the director<br /></li>
-<li>now type "lakshmiStartAagidu --file {'file-name.csv'} --dependancy {'dependancy'}" to check the version(Task-1).<br /></li>
-<li>now type "lakshmiStartAagidu --file {'file-name.csv'} --dependancy {'dependancy'}" --update  to check the version(Task-1) and get the update PR column which contains the link to update the out-dated package.<br /> </li>
+<li>Type npm install inside your terminal<br /></li>
+<li>Typing "npm install -g" in the terminal globally<br /></li>
+<li>now type "startCLI --file {'file-name.csv'} --dependancy {'dependancy'}" to check the version(Task-1).<br /></li>
+<li>now type "startCLI --file {'file-name.csv'} --dependancy {'dependancy'}" --update  to check the version(Task-1) and get the update PR column which contains the link to update the out-dated package.<br /> </li>
 </ol>
 
 
@@ -55,10 +27,5 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ## Contact
 
 Brundha - brundhakumaran@gmail.com
-
-Project Link: 
-
+Project Link: https://github.com/dyte-submissions/dyte-vit-2022-brundhak
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
